@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1833-find-the-highest-altitude](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1899-count-items-matching-a-rule](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
