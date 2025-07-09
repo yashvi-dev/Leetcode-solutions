@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
