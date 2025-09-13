@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1833-find-the-highest-altitude](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1833-find-the-highest-altitude](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 ## Matrix
 |  |
