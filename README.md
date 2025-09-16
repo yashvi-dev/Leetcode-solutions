@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1899-count-items-matching-a-rule](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
 ## Prefix Sum
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
