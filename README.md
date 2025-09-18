@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1899-count-items-matching-a-rule](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/1899-count-items-matching-a-rule) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0937-online-stock-span](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0937-online-stock-span) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
