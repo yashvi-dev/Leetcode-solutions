@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
