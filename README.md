@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashvi-dev/Leetcode-solutions/tree/master/0090-subsets-ii) |
